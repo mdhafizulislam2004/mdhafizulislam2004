@@ -63,9 +63,6 @@
 
 </div>
 
----
-[![](https://komarev.com/ghpvc/?username=mdhafizulislam2004&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdhafizulislam2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -79,12 +76,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafizul2004official@gmail.com)
 
 </div>
-
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdhafizulislam2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=mdhafizulislam2004&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
