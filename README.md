@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 - 🔭 I’m currently working on Web Development Project
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Web Development Project
