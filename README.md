@@ -43,7 +43,6 @@
 
 ## 🚀 Currently Exploring
 ![Next JS](https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ---
